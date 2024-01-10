@@ -21,4 +21,4 @@
 
 SELECT URL
 FROM Listings 
-WHERE accommodates > 15
+WHERE accommodates > 15;

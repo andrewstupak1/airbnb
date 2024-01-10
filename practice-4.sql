@@ -5,5 +5,5 @@
 -- +----------+
 SELECT Count (neighborhood)
 FROM Listings
-WHERE neighborhood = "Lincoln Park"
+WHERE neighborhood = "Lincoln Park";
 

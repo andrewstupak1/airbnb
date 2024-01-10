@@ -15,4 +15,4 @@
 
 SELECT DISTINCT neighborhood
 FROM Listings
-ORDER BY neighborhood
+ORDER BY neighborhood;
